@@ -1,1 +1,1 @@
-# Krasti-Classes
+# KrastiClasses
